@@ -26,20 +26,20 @@
     "OTPKEY": "",
     "TDS_TOKEN": "TDS0nI2IXZ2V2ciojIyVmdlNnIsISOwAzayFGRiojIyV2c1Jye",
     "BOTNAME": "Linh 𝘍𝘹 🌷",
-    "FACEBOOK_ADMIN": "https://www.facebook.com/NgTuann0008",
+    "FACEBOOK_ADMIN": "https://www.facebook.com/share/15b9EgnjoM/",
     "PREFIX": ".",
     "ADMINBOT": [
-        "100080280230629",
+        "61572135665820",
         "",
         "",
         "",
         "",
-        "61566407567301"
+        ""
     ],
     "NDH": [
         "",
-        "100080280230629",
-        "61566407567301"
+        "61572135665820",
+        "61572135665820"
     ],
     "DATABASE": {
         "sqlite": {
@@ -62,7 +62,7 @@
     },
     "version": "1.2.15",
     "menu": {
-        "autoUnsend": {
+        "autoUnsend": true,
             "status": true,
             "timeOut": 90
         }
