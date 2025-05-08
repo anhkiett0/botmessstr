@@ -2,7 +2,7 @@ module.exports.config = {
   name: "contact",
   version: "1.2.0",
   hasPermssion: 0,
-  credits: "Bùi Ngọc Tuấn",
+  credits: "Trần Như Anh Kiệt",
   description: "Liên hệ Admin bot",
   commandCategory: "Tiện ích",
   usages: "",
@@ -12,11 +12,11 @@ module.exports.config = {
 module.exports.run = async function({ api, event }) {
   try {
     const adminInfo = {
-      name: "Bùi Ngọc Tuấn",
-      momo: "0979381034",
-      fbLink: "https://www.facebook.com/share/15rxJLkbxN/",
-      zalo: "0979381034",
-      email: "ngoctuandeptrai08@gmail.com",
+      name: "Trần Như Anh Kiệt",
+      momo: "0777505553",
+      fbLink: "https://www.facebook.com/share/15b9EgnjoM/",
+      zalo: "0777505553",
+      email: "lienquan.tb789@gmail.com",
       message: "Cần gì thì liên hệ admin nhé ❤️"
     };
 
