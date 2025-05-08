@@ -3,7 +3,7 @@
     "notiUnsend": 10,
     "iconUnsend": {
         "status": true,
-        "icon": "👍"
+        "icon": "😡"
     },
     "NOTIFICATION": true,
     "language": "vi",
@@ -14,7 +14,7 @@
     "autoClean": true,
     "adminOnly": false,
     "encryptSt": false,
-    "UPTIME": false,
+    "UPTIME": true,
     "DASHBOARD": false,
     "commandDisabled": [],
     "eventDisabled": [
@@ -25,7 +25,7 @@
     "PASSWORD": "",
     "OTPKEY": "",
     "TDS_TOKEN": "TDS0nI2IXZ2V2ciojIyVmdlNnIsISOwAzayFGRiojIyV2c1Jye",
-    "BOTNAME": "𝘏𝘪𝘯𝘪𝘵𝘢 𝘍𝘹 🌷",
+    "BOTNAME": "Linh 𝘍𝘹 🌷",
     "FACEBOOK_ADMIN": "https://www.facebook.com/NgTuann0008",
     "PREFIX": ".",
     "ADMINBOT": [
